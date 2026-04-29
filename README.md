@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @safeer85
-- 👀 I’m interested in software engineering, embedded and AI Engineering
-- 🌱 I’m currently learning Embedded System design and Artificial Intellignet
+- 👀 I’m interested in software engineering and AI Engineering
+- 🌱 I’m currently learning cloud computing and Artificial Intellignet
   
 
 
